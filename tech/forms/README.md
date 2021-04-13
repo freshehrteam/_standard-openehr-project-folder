@@ -1,2 +1,2 @@
-# Guides
-This folder is the root for any tech implementation guidance content
+# Forms
+This folder is the root for any openEHR forms artefacts
