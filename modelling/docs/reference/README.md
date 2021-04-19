@@ -1,2 +1,2 @@
 # Modelling reference documents
-This folder contains documents which describe the use-case or requirements.
+This folder contains customer of wider service documents which describe the use-case or requirements.
