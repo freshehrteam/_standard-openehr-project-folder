@@ -350,5 +350,5 @@ MigrationBackup/
 .ionide/
 
 
-# freshEHR local; business folder
-business
+# freshEHR local; private folder
+_private/
